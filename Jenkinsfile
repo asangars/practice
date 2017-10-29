@@ -1,4 +1,4 @@
-stage 'build'
+stage 'prod'
 node{
     echo "helo world" 
     }
