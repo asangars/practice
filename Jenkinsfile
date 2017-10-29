@@ -4,5 +4,5 @@ node{
     }
 stage 'test'
 node{
-    echo "helo world" 
+    echo "mukkamalla" 
  }
